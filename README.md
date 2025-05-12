@@ -83,7 +83,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Seu Nome - [GitHub](https://github.com/GabrielDevelop777) - [LinkedIn](https://www.linkedin.com/in/gabriel-alexandre-silva/)
+[GitHub](https://github.com/GabrielDevelop777) - [LinkedIn](https://www.linkedin.com/in/gabriel-alexandre-silva/)
 
 ---
 
